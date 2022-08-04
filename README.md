@@ -1,13 +1,11 @@
 # Employee Scheduling APP
 
-### A. roles:
-
+### A. Roles:
       	1. Regular associates
       	2. Hr associates
       	3. Managers
 
 ### B. Modules:
-
         1. Regular associates can put time requests
         2. Regular associates can check in and check out
         3. Regular associates can check their work shift, timesheet, and so on.
@@ -19,7 +17,6 @@
         9. Managers has most of authority of HR associates
 
 ### C. Technologies used
-
       	1. Angular for frontend
       	2. Spring Boot for backend
       	3. PostgreS for the database
