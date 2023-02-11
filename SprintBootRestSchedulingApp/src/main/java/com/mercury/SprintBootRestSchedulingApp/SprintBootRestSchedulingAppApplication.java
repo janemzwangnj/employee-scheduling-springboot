@@ -9,5 +9,5 @@ public class SprintBootRestSchedulingAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SprintBootRestSchedulingAppApplication.class, args);
 	}
-
 }
+	
